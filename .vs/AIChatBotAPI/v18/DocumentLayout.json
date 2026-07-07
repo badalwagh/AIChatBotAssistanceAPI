@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|f:\\visual studio projects 2025\\aichatbotapi\\aichatbotapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|solutionrelative:aichatbotapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|f:\\visual studio projects 2025\\aichatbotapi\\aichatbotapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|solutionrelative:aichatbotapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|f:\\visual studio projects 2025\\aichatbotapi\\aichatbotapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|solutionrelative:aichatbotapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|f:\\visual studio projects 2025\\aichatbotapi\\aichatbotapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|solutionrelative:aichatbotapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|f:\\visual studio projects 2025\\aichatbotapi\\aichatbotapi\\service\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|solutionrelative:aichatbotapi\\service\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|f:\\visual studio projects 2025\\aichatbotapi\\aichatbotapi\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B5C4CC-C624-4B7B-9114-5269A0812018}|AIChatBotAPI\\AIChatBotAPI.csproj|solutionrelative:aichatbotapi\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AIChatBotAPI\\appsettings.Development.json",
+              "ToolTip": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\appsettings.Development.json",
+              "RelativeToolTip": "AIChatBotAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-07T06:23:18.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AIChatBotAPI\\Program.cs",
+              "ToolTip": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Program.cs",
+              "RelativeToolTip": "AIChatBotAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:11:45.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AIChatBotAPI\\appsettings.json",
+              "ToolTip": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\appsettings.json",
+              "RelativeToolTip": "AIChatBotAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-07T06:11:45.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Service\\GeminiService.cs",
+              "RelativeDocumentMoniker": "AIChatBotAPI\\Service\\GeminiService.cs",
+              "ToolTip": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Service\\GeminiService.cs",
+              "RelativeToolTip": "AIChatBotAPI\\Service\\GeminiService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:11:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Models\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "AIChatBotAPI\\Models\\ChatRequest.cs",
+              "ToolTip": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Models\\ChatRequest.cs",
+              "RelativeToolTip": "AIChatBotAPI\\Models\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:11:45.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "AIChatBotAPI\\Controllers\\ChatController.cs",
+              "ToolTip": "F:\\Visual Studio Projects 2025\\AIChatBotAPI\\AIChatBotAPI\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "AIChatBotAPI\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBBwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:11:45.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
